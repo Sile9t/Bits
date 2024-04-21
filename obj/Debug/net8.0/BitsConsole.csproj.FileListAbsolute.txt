@@ -1,0 +1,14 @@
+E:\Projects\DotNet\BitsConsole\bin\Debug\net8.0\BitsConsole.exe
+E:\Projects\DotNet\BitsConsole\bin\Debug\net8.0\BitsConsole.deps.json
+E:\Projects\DotNet\BitsConsole\bin\Debug\net8.0\BitsConsole.runtimeconfig.json
+E:\Projects\DotNet\BitsConsole\bin\Debug\net8.0\BitsConsole.dll
+E:\Projects\DotNet\BitsConsole\bin\Debug\net8.0\BitsConsole.pdb
+E:\Projects\DotNet\BitsConsole\obj\Debug\net8.0\BitsConsole.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\DotNet\BitsConsole\obj\Debug\net8.0\BitsConsole.AssemblyInfoInputs.cache
+E:\Projects\DotNet\BitsConsole\obj\Debug\net8.0\BitsConsole.AssemblyInfo.cs
+E:\Projects\DotNet\BitsConsole\obj\Debug\net8.0\BitsConsole.csproj.CoreCompileInputs.cache
+E:\Projects\DotNet\BitsConsole\obj\Debug\net8.0\BitsConsole.dll
+E:\Projects\DotNet\BitsConsole\obj\Debug\net8.0\refint\BitsConsole.dll
+E:\Projects\DotNet\BitsConsole\obj\Debug\net8.0\BitsConsole.pdb
+E:\Projects\DotNet\BitsConsole\obj\Debug\net8.0\BitsConsole.genruntimeconfig.cache
+E:\Projects\DotNet\BitsConsole\obj\Debug\net8.0\ref\BitsConsole.dll
